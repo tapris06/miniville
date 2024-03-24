@@ -29,6 +29,9 @@ public class Profile : MonoBehaviour
         else if(i==3)mark3.sprite=OffState;
         else mark4.sprite=OffState;
     }
+    void Refresh(){
+        Coin.text=coin.ToString();
+    }
     void Start()
     {
         

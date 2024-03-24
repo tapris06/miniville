@@ -1384,7 +1384,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 581, y: 96}
+  m_AnchoredPosition: {x: 577, y: 130}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &506073075
@@ -1407,7 +1407,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 90, y: 100}
+  m_CellSize: {x: 90, y: 120}
   m_Spacing: {x: 10, y: 10}
   m_Constraint: 1
   m_ConstraintCount: 2
@@ -4738,7 +4738,7 @@ MonoBehaviour:
   Name: {fileID: 1463484437}
   OnState: {fileID: 21300000, guid: d968be26efa098942a615932c7d77d51, type: 3}
   OffState: {fileID: 21300000, guid: 3fb9a397f81740e4785cfbc8809159eb, type: 3}
-  Coin: {fileID: 1115348612}
+  Coin: {fileID: 997781469}
 --- !u!1 &1943134431
 GameObject:
   m_ObjectHideFlags: 0
